@@ -1,0 +1,3 @@
+D:/STM32_Programs/FOC-DRV8323/cmake-build-debug/CMakeFiles/FOC-DRV8323.elf.dir
+D:/STM32_Programs/FOC-DRV8323/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STM32_Programs/FOC-DRV8323/cmake-build-debug/CMakeFiles/rebuild_cache.dir
