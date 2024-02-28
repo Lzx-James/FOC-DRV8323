@@ -10,7 +10,7 @@ DRV8323HRTAR芯片从属于德州仪器TI公司的DRV832x芯片系列
 
 ### 4-level
 
-![4-level](Img\4-level.png)
+![4-level](Img/4-level.png)
 
 [*手册 Page 40*](Doc/drv8323.pdf)
 
@@ -25,7 +25,7 @@ DRV8323HRTAR芯片从属于德州仪器TI公司的DRV832x芯片系列
 
 #### PWM MODE
 
-![6xPWM](Img\6xPWM.png)
+![6xPWM](Img/6xPWM.png)
 
 [*手册 Page 31*](Doc/drv8323.pdf)
 
@@ -33,7 +33,7 @@ DRV8323HRTAR芯片从属于德州仪器TI公司的DRV832x芯片系列
 
 需要将MODE引脚连接到AGND实现6路PWM控制。
 
-![3xPWM](Img\3xPWM.png)
+![3xPWM](Img/3xPWM.png)
 
 [*手册 Page 31*](Doc/drv8323.pdf)
 
@@ -41,9 +41,9 @@ DRV8323HRTAR芯片从属于德州仪器TI公司的DRV832x芯片系列
 
 需要将MODE引脚连接47kΩ电阻到AGND
 
-![1xPWM](Img\1xPWM-1.png)
+![1xPWM](Img/1xPWM-1.png)
 
-![六步换向](Img\1xPWM-2.png)
+![六步换向](Img/1xPWM-2.png)
 
 [*手册 Page 31-32*](Doc/drv8323.pdf)
 
@@ -51,7 +51,7 @@ DRV8323HRTAR芯片从属于德州仪器TI公司的DRV832x芯片系列
 
 #### GAIN
 
-<img title="" src="Img/bidir_adc_1.png" alt="" width="333">![电流求解公式](Img\adc_equation.png)
+<img title="" src="Img/bidir_adc_1.png" alt="" width="333">![电流求解公式](Img/adc_equation.png)
 
 [*手册 Page 41-42*](Doc/drv8323.pdf)
 
@@ -59,7 +59,7 @@ DRV8323H的电流采样如图，通过改变GAIN引脚的外接电阻可以改�
 
 ### 7-level
 
-![7-level](Img\7-level.png)level
+![7-level](Img/7-level.png)level
 
 [*手册 Page 40*](Doc/drv8323.pdf)
 
@@ -79,7 +79,7 @@ IDRIVE用于设置MOS管的源极驱动电流，VDS用于检测MOS管漏极和�
 
 ### 1-level
 
-![1-level](Img\1-level.png)
+![1-level](Img/1-level.png)
 
 [*手册 Page 39*](Doc/drv8323.pdf)
 
