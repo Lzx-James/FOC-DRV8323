@@ -108,7 +108,7 @@ The IDRIVE and VDS pins are 7-level wired to select different modes via an on-ch
 
 | 7-level            | IDRIVE                  | VDS         |
 | ------------------ | ----------------------- | ----------- |
-| To DVDD             | IG peak/sink：1/2A       | 不使能         |
+| To DVDD             | IG peak/sink：1/2A       | Disable         |
 | Connect 18kΩ resistor to DVDD      | IG peak/sink：570/1140mA | D-S thresholds: 1.88V |
 | Connect 75kΩ resistor to DVDD       | IG peak/sink：260/520mA  | D-S thresholds: 1.13V |
 | High resistance state/connect >500kΩ resistor to AGND | IG peak/sink：120/240mA  | D-S thresholds: 0.6V  |
